@@ -102,7 +102,7 @@ params:
         icon: vimeo
         icon_position: center
         new_window: true
-    content: '&copy; 2021 NEO GALACTIC. &year'
+    content: '&copy; 2021 NEO GALACTIC. &currentyear'
   domain: 'https://alternative-d45dc.netlify.app'
   favicon: images/favicon.png
 taxonomies:
