@@ -99,7 +99,7 @@ params:
         url: 'https://youtube.com/'
         style: link
         has_icon: true
-        icon: youtube
+        icon: github
         icon_position: center
         new_window: true
     content: '&copy; 2021 NEO GALACTIC.'
