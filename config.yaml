@@ -103,7 +103,7 @@ params:
         icon_position: center
         new_window: true
       - date: "`r format(Sys.time(), '%Y')`"
-    content: '&copy; 2021 NEO GALACTIC. '
+    content: '&copy; 2021 NEO GALACTIC. date'
   domain: 'https://alternative-d45dc.netlify.app'
   favicon: images/favicon.png
 taxonomies:
