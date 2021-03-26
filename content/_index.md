@@ -212,7 +212,7 @@ seo:
     - name: 'twitter:title'
       value: Neo Galactic
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Designing a experimental future.
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
