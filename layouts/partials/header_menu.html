@@ -5,8 +5,9 @@
 	{{ $page_url := trim $page.URL "/" }}
 	{{ $item_url := trim $item.url "/" }}
 	{{ $item_style := $item.style | default "link" }}
+	<li class="menu__item ml-md-3{{ if and (eq $page_url $item_url) (eq $item_style "link") }} is-active{{ end }}{{ if ne $item_style "link" }} menu__item-btn{{ end }}"></li>
 		{{ $include_dict := dict "action" $item }}
 		{{ partial "action.html" $include_dict }}
-	
+	</li>
 {{ end }}
 </ul>
