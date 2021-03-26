@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Neo Galactic
-  description: The preview of the Startup theme
+  description: Designing a experimental future.
   extra:
     - name: 'og:type'
       value: website
