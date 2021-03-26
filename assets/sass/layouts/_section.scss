@@ -170,7 +170,7 @@
 }
 
 .bg-secondary {
-	background: $color-secondary-sect-bg;
+	background: $color-body-bg;
 }
 
 @each $style in map-keys($theme-styles) {
