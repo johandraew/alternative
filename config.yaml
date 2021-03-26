@@ -102,7 +102,7 @@ params:
         icon: vimeo
         icon_position: center
         new_window: true
-      - date: "`r format(Sys.Date(), '%Y')`"
+      - date: "`r format(Sys.Date(), '%B%Y')`"
     content: '&copy; 2021 NEO GALACTIC. date'
   domain: 'https://alternative-d45dc.netlify.app'
   favicon: images/favicon.png
