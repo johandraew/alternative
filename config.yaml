@@ -95,7 +95,7 @@ params:
         icon: youtube
         icon_position: center
         new_window: true
-      - label: Git
+      - label: GitHub
         url: 'https://youtube.com/'
         style: link
         has_icon: true
