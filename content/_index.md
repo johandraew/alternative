@@ -201,7 +201,7 @@ seo:
       value: Neo Galactic
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Designing a experimental future.
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
