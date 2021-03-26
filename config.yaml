@@ -96,7 +96,7 @@ params:
         icon_position: center
         new_window: true
       - label: YouTube
-        url: 'https://vimeo.com/'
+        url: 'https://youtube.com/'
         style: link
         has_icon: true
         icon: youtube
