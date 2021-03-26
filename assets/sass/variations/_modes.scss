@@ -116,8 +116,8 @@
 	}
 
 	.card {
-		background-color: #010101;
-		color: $c;
+		background-color: $color-card-bg;
+		color: $color-card-text;
 
 		hr {
 			background-color: $color-hr-border;
