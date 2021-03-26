@@ -109,6 +109,7 @@ params:
       href="https://app.stackbit.com/create?theme=startup&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
   domain: 'https://alternative-d45dc.netlify.app'
+  favicon: images/favicon.png
 taxonomies:
   stub: stub
 disableKinds:
