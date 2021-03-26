@@ -5,5 +5,8 @@
 	{{ $page_url := trim $page.URL "/" }}
 	{{ $item_url := trim $item.url "/" }}
 	{{ $item_style := $item.style | default "link" }}
+		{{ $include_dict := dict "action" $item }}
+		{{ partial "action.html" $include_dict }}
+	</li>
 {{ end }}
 </ul>
