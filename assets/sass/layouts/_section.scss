@@ -3,7 +3,7 @@
  */
 .section {
 	&.has-border {
-		border-bottom: 1px solid #101010;
+		border-bottom: none;
 
 		&:last-child {
 			border-bottom: 0;
