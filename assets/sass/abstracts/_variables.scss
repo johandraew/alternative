@@ -4,7 +4,7 @@
 $theme-styles: (
 	classic: (
 		fonts: (
-			serif: ('Courier New', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
+			serif: ('Lora', 'Lucida Bright', 'Lucidabright', 'Lucida Serif', Lucida, Georgia, serif),
 			sans-serif: ('Open Sans', Lato, sans-serif)
 		),
 		colors: (
@@ -49,7 +49,7 @@ $color-primary:                        #45515e !default;
 // Base
 $color-body-text:                      #fff !default;
 $color-meta:                           #8696a6 !default;
-$color-body-bg:                        #000 !default;
+$color-body-bg:                        # !default;
 
 // Highlight
 $color-highlight-text:                 #2c343c !default;
