@@ -82,7 +82,7 @@ params:
         icon_position: center
         new_window: true
       - label: Facebook
-        url: 'https://www.linkedin.com/'
+        url: 'https://facebook.com/'
         style: link
         has_icon: true
         icon: facebook
