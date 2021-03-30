@@ -16,7 +16,7 @@
   z-index: 12;
 }
 
-@include media-breakpoint-up(sm)
+@include media-breakpoint-up(sm){
 .announcement-bar {
   position: fixed;
   bottom: 20px;
