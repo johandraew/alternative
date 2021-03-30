@@ -22,7 +22,7 @@ params:
       - label: Blog
         url: /blog
         style: link
-    has_anncmnt: false
+    has_anncmnt: true
     anncmnt_has_close: true
   footer:
     logo_alt: YourGoal logo
