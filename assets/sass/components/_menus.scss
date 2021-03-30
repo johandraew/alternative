@@ -23,7 +23,8 @@
 	}
 
 	a:not(.btn):hover{
-        
+        text-decoration: underline;
+        color: #ed9700;
     }
 	&.is-active a {
         text-decoration: underline;
