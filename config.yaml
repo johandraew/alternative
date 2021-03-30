@@ -24,9 +24,10 @@ params:
         style: link
     has_anncmnt: true
     anncmnt_has_close: true
-    anncmnt_content: >
-      We use cookies to ensure that you get the best experience.\<br> [Learn
-      More](https://google.com)
+    anncmnt_content: |
+      We use cookies to ensure that you get the best experience.
+
+      [Learn More](https://google.com)
     anncmnt_align: left
   footer:
     logo_alt: YourGoal logo
