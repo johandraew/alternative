@@ -23,8 +23,8 @@ params:
         url: /blog
         style: link
     # Activate announcement cookies
-    has_anncmnt: false
-    anncmnt_has_close: false # false
+    has_anncmnt: true
+    anncmnt_has_close: true
     anncmnt_content: |
       P
     anncmnt_align: left
