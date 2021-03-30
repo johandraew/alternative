@@ -22,7 +22,9 @@
 		text-decoration: none;
 	}
 
-	a:not(.btn):hover,
+	a:not(.btn):hover{
+        
+    }
 	&.is-active a {
         text-decoration: underline;
         color: #ed9700;
