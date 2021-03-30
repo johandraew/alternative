@@ -17,6 +17,20 @@
 }
 
 @include media-breakpoint-up(sm)
+.announcement-bar {
+  position: fixed;
+  bottom: 20px;
+  left: 70%;
+  width: 28%;
+  padding: 5px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #101010;
+  border-radius: 5px;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+  z-index: 12;
+}
 
 .announcement-bar__copy {
 	font-size: 0.875rem;
