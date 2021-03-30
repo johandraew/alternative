@@ -22,7 +22,7 @@ params:
       - label: Blog
         url: /blog
         style: link
-    # Activate announcement
+    # Activate announcement cookies
     has_anncmnt: false
     anncmnt_has_close: false # false
     anncmnt_content: |
