@@ -27,6 +27,8 @@ params:
     anncmnt_has_close: true
     anncmnt_content: |
       We use cookies to ensure that you get the best experience.
+      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
+      target="_blank" rel="noopener">Stackbit</a>
     anncmnt_align: left
   footer:
     logo_alt: YourGoal logo
