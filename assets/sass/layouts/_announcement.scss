@@ -2,7 +2,9 @@
  * Announcement
  */
 .announcement-bar {
-  filter: blur(4px);
+  
+    backdrop-filter: blur(60px);
+    background: rgba(255, 255, 255, 0.06);
   position: fixed;
   bottom: 20px;
   left: 38%;
