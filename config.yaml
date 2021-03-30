@@ -95,7 +95,7 @@ params:
         icon: github
         icon_position: center
         new_window: true
-    content: '&copy; 2021 NEO GALACTIC. ALL RIGHTS RESERVED'
+    content: '&copy; 2021 NEO GALACTIC. ALL RIGHTS RESERVED.'
   domain: 'https://alternative-d45dc.netlify.app'
   favicon: images/favicon.png
 taxonomies:
