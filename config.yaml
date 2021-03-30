@@ -22,8 +22,8 @@ params:
       - label: Blog
         url: /blog
         style: link
-    has_anncmnt: true
-    anncmnt_has_close: true
+    has_anncmnt: false
+    anncmnt_has_close: false
     anncmnt_content: |
       P
     anncmnt_align: left
