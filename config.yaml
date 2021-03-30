@@ -23,6 +23,7 @@ params:
         url: /blog
         style: link
     has_anncmnt: false
+    anncmnt_has_close: true
   footer:
     logo_alt: YourGoal logo
     has_primary_nav: true
