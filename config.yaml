@@ -26,7 +26,7 @@ params:
     has_anncmnt: true
     anncmnt_has_close: true
     anncmnt_content: |
-      P
+      We use cookies to ensure that you get the best experience.
     anncmnt_align: left
   footer:
     logo_alt: YourGoal logo
