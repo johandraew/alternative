@@ -24,6 +24,8 @@ params:
         style: link
     has_anncmnt: true
     anncmnt_has_close: true
+    anncmnt_content: |
+      P
   footer:
     logo_alt: YourGoal logo
     has_primary_nav: true
