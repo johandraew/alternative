@@ -16,6 +16,8 @@
   z-index: 12;
 }
 
+@include media-breakpoint-up(sm)
+
 .announcement-bar__copy {
 	font-size: 0.875rem;
 
