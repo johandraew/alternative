@@ -26,6 +26,7 @@ params:
     anncmnt_has_close: true
     anncmnt_content: |
       P
+    anncmnt_align: center
   footer:
     logo_alt: YourGoal logo
     has_primary_nav: true
