@@ -86,21 +86,6 @@
 		}
 	}
 
-	.bg-primary,
-	.bg-secondary {
-		input[type="text"],
-		input[type="password"],
-		input[type="email"],
-		input[type="tel"],
-		input[type="number"],
-		input[type="search"],
-		input[type="url"],
-		select,
-		textarea {
-			background-color: $color-sect-input-bg;
-			border: 0;
-		}
-	}
 
 	&.style-classic,
 	&.style-bold {
@@ -127,19 +112,6 @@
 			background-color: $color-btn-bg;
 			color: $color-btn-text;
 		}
-
-		input[type="text"],
-		input[type="password"],
-		input[type="email"],
-		input[type="tel"],
-		input[type="number"],
-		input[type="search"],
-		input[type="url"],
-		select,
-		textarea {
-			background-color: $color-input-bg;
-			border: 1px solid $color-input-border;
-		}
 	}
 
 	&.style-classic {
@@ -158,18 +130,6 @@
 			td {
 				border-color: $color-table-border;
 			}
-
-			input[type="text"],
-			input[type="password"],
-			input[type="email"],
-			input[type="tel"],
-			input[type="number"],
-			input[type="search"],
-			input[type="url"],
-			select,
-			textarea {
-				background: $color-classic-input-bg;
-			}
 		}
 	}
 
@@ -187,19 +147,6 @@
 			th,
 			td {
 				border-color: $color-table-border;
-			}
-
-			input[type="text"],
-			input[type="password"],
-			input[type="email"],
-			input[type="tel"],
-			input[type="number"],
-			input[type="search"],
-			input[type="url"],
-			select,
-			textarea {
-				background: $color-bold-input-bg;
-				border-color: transparent;
 			}
 		}
 	}
@@ -270,19 +217,6 @@
 		}
 	}
 
-	input[type="text"],
-	input[type="password"],
-	input[type="email"],
-	input[type="tel"],
-	input[type="number"],
-	input[type="search"],
-	input[type="url"],
-	select,
-	textarea {
-		background: $color-dark-input-bg;
-		border-color: transparent;
-		color: $color-dark-input-text;
-	}
 
 	.form-select {
 		color: $color-dark-input-text;

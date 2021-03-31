@@ -5,10 +5,9 @@
 	align-items: center;
 	background-color: $color-btn-bg;
 	border: 0;
-	border-radius: 0;
+	border-radius: 1px solid $color-border-cool;
 	box-sizing: border-box;
 	color: $color-btn-text;
-	cursor: none;
 	display: inline-flex;
 	font-size: 0.88889em;
 	font-weight: 700;
@@ -25,6 +24,7 @@
 	&:active {
 		opacity: .85;
 		outline: 0;
+		cursor: none;
 	}
 
 	.icon + :not(.sr-only) {

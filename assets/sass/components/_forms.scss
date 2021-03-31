@@ -19,9 +19,9 @@ input[type="search"],
 input[type="url"],
 select,
 textarea {
-	background: $color-input-bg;
-	border: 1px solid $color-input-border;
-	border-radius: 0;
+	background: $color-input-black;
+	border: 1px solid $color-border-cool;
+	border-radius: 5px;
 	box-shadow: none;
 	box-sizing: border-box;
 	color: $color-input-text;
@@ -95,35 +95,5 @@ textarea {
 .form-inline {
 	label {
 		@include sr-only();
-	}
-}
-
-.style-classic {
-	input[type="text"],
-	input[type="password"],
-	input[type="email"],
-	input[type="tel"],
-	input[type="number"],
-	input[type="search"],
-	input[type="url"],
-	select,
-	textarea {
-		background: $color-classic-input-bg;
-		border-radius: 6px;
-	}
-}
-
-.style-bold {
-	input[type="text"],
-	input[type="password"],
-	input[type="email"],
-	input[type="tel"],
-	input[type="number"],
-	input[type="search"],
-	input[type="url"],
-	select,
-	textarea {
-		background: $color-bold-input-bg;
-		border-color: transparent;
 	}
 }
