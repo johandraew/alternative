@@ -188,7 +188,7 @@ seo:
       value: Designing a experimental future.
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: images/com.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -198,7 +198,7 @@ seo:
     - name: 'twitter:description'
       value: Designing a experimental future.
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: images/com.png
       relativeUrl: true
 layout: advanced
 ---
