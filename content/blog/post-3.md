@@ -4,7 +4,6 @@ subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
 date: '2020-12-28'
-author: data/team/brandon-guidelines.json
 categories:
   - data/categories/use-cases.json
 tags:

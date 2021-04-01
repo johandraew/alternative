@@ -26,7 +26,7 @@ sections:
     form_position: bottom
     form_layout: inline
     form_id: subscribe
-    form_action: /thank-you
+    form_action: /thanks
     form_fields:
       - input_type: email
         name: email

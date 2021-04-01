@@ -47,7 +47,7 @@ sections:
           activities and track your progress.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /thanks
             style: link
             has_icon: true
             icon: arrow-right
@@ -63,7 +63,7 @@ sections:
           friends and achieve them together.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /thanks
             style: link
             has_icon: true
             icon: arrow-right
@@ -78,7 +78,7 @@ sections:
           procrastination and achieve your goals.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /thanks
             style: link
             has_icon: true
             icon: arrow-right

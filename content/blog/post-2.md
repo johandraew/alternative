@@ -4,7 +4,6 @@ subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
 date: '2020-12-02'
-author: data/team/dianne-ameter.json
 categories:
   - data/categories/news.json
 tags:

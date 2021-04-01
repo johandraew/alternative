@@ -4,7 +4,6 @@ subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
 date: '2021-02-10'
-author: data/team/brandon-guidelines.json
 categories:
   - data/categories/tips.json
 tags:

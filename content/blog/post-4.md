@@ -4,7 +4,6 @@ subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
 date: '2021-01-15'
-author: data/team/dianne-ameter.json
 categories:
   - data/categories/tips.json
 excerpt: >-

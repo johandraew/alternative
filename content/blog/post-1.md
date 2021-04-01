@@ -4,7 +4,6 @@ subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
 date: '2020-11-04'
-author: data/team/dianne-ameter.json
 categories:
   - data/categories/tips.json
 excerpt: >-
